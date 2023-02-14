@@ -1,0 +1,6 @@
+# Git ignore for C++/Cmake projects
+CMakeLists.txt.user
+/build
+
+# Visual Studio Code
+.vscode
